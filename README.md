@@ -44,9 +44,9 @@ Atualmente estou aprofundando meus conhecimentos em **Ciência de Dados**, espec
 
 ## 📬 Contato
 
-- 📧 vinicius.herrero@email.com  
+- 📧 viniciusherrero@outlook.com.br
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-herrero/)  
-- 🌐 [Portfólio (em breve)](https://vinicius-herrero.github.io/Portifolio/Projetos/Vin%C3%ADcius%20Herrero.html#)
+- 🌐 [Portfólio](https://vinicius-herrero.github.io/Portifolio/Projetos/Vin%C3%ADcius%20Herrero.html#)
 
 ---
 
