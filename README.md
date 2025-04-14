@@ -46,6 +46,7 @@ Atualmente estou aprofundando meus conhecimentos em **Ciência de Dados**, espec
 - 📧 viniciusherrero@outlook.com.br
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-herrero/)  
 - 🌐 [Portfólio](https://vinicius-herrero.github.io/Portifolio/Projetos/Vin%C3%ADcius%20Herrero.html#)
+  obs: Portifólio desenvolvido utilizando somente html e css.
 
 ---
 
