@@ -38,7 +38,6 @@ Atualmente estou aprofundando meus conhecimentos em **Ciência de Dados**, espec
 - Estatística aplicada à Ciência de Dados  
 - Algoritmos de Machine Learning  
 - Modelagem de dados para análises preditivas  
-- Práticas de versionamento e reprodutibilidade com Git
 
 ---
 
