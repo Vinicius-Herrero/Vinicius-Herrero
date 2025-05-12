@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Analista+de+Dados;Especialista+em+Automação;Power+BI+%7C+Python+%7C+Infor+LN;Transformando+dados+em+decisões" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Analista+de+Dados;Especialista+em+Automação;Power+BI+%7C+Python+%7C+SQL;Transformando+dados+em+decisões" />
 </p>
 
 # 👋 Olá, eu sou o Vinícius Herrero!
@@ -32,7 +32,7 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 
 
-🐍 Python – Automação, APIs, pandas, requests
+🐍 Python – Automação, Integração, Modelagem e visualização de dados
 
 ![Requests](https://img.shields.io/badge/-Requests-2D5D89?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,28 +54,28 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 🏢 ERPs – Estrutura de tabelas, relatórios, integrações
 
-![Infor LN](https://img.shields.io/badge/-Infor%20LN-004880?style=for-the-badge&logo=ibm&logoColor=white)
+![Infor LN](https://img.shields.io/badge/-Infor%20LN-FF0000?style=for-the-badge&logo=ibm&logoColor=white)
 ![SAP S/4HANA](https://img.shields.io/badge/-SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Business One](https://img.shields.io/badge/-SAP%20Business%20One-000000?style=for-the-badge&logo=sap&logoColor=white)
 
 🔁 APIs REST – Consumo e automação de dados externos
 
-
-
-☁️ Data Lakes & Integrações / ETL – Processos de carga e tratamento de dados
-
-![Data Lake](https://img.shields.io/badge/-Data%20Lake-1F6FEB?style=for-the-badge&logo=azuredevops&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DIAPI](https://img.shields.io/badge/-SAP%20DIAPI-000000?style=for-the-badge&logo=sap&logoColor=white)
 ![Service Layer](https://img.shields.io/badge/-SAP%20Service%20Layer-3C3C3C?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
-🧰 Ferramentas – Excel avançado, DBeaver, Postman, Git, ...
+☁️ Data Lakes & Integrações / ETL – Processos de carga e tratamento de dados
+
+![Infor Data Lake](https://img.shields.io/badge/-Data%20Lake-1F6FEB?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF342E?style=for-the-badge&logo=databricks&logoColor=white)
+
+
+🧰 Ferramentas – Excel avançado, DBeaver, Git, ...
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-150458?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
 ## 🚀 Projetos em Destaque
