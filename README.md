@@ -32,13 +32,18 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 
 
-🐍 Python – Automação, Integração, Modelagem e visualização de dados
+🐍 Python – Machine Learning, Automação, Integração, Modelagem e visualização de dados
 
 ![Requests](https://img.shields.io/badge/-Requests-2D5D89?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF6C37?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![Random Forest Regressor](https://img.shields.io/badge/-Random%20Forest%20Regressor-8BC34A?style=for-the-badge&logo=python&logoColor=white)
+![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-CDDC39?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6E00?style=for-the-badge&logo=xgboost&logoColor=white)
 
 📊 BI – Dashboards interativos, DAX, integração com Python
 
