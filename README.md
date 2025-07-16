@@ -98,8 +98,6 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 ---
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 📬 Contato
 
@@ -109,4 +107,7 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 ---
 
-> “Entender bem o problema é o primeiro passo para encontrar uma boa solução.”  
+> “Entender bem o problema é o primeiro passo para encontrar uma boa solução.”
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
