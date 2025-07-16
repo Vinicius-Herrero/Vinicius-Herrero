@@ -109,5 +109,5 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 
 > “Entender bem o problema é o primeiro passo para encontrar uma boa solução.”
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Vinícius-Herrero/Vinicius-Herrero/blob/output/github-contribution-grid-snake.svg)
 
