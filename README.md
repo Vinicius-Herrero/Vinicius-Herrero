@@ -91,7 +91,7 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 - 📌 **[RouteCalc](https://github.com/Vinicius-Herrero/RouteCalc)** — Cálculo de distância e tempo entre pontos geográficos com base em latitude e longitude.
 - 📌 **[Book Sommelier API](https://github.com/ebarros29/book-sommelier-api)** — API RESTful em Flask com web scraping integrada, pronta para pipelines de Data Science e Machine Learning
 - 📌 **[Stock Pricing Predictor](https://github.com/Vinicius-Herrero/stock-pricing-predictor)** — Modelo de deep learning em LSTM para previsão de preços de ações com API FastAPI e monitoramento via Prometheus e Grafana.
-- - 📌 **[Flight Data Analyzer](https://github.com/Vinicius-Herrero/flight-data-analyzer#flight-data-analyzer)** — Pipeline completo de machine learning para análise de dados de voos domésticos, cobrindo EDA, classificação, regressão e clusterização K-Means.
+- 📌 **[Flight Data Analyzer](https://github.com/Vinicius-Herrero/flight-data-analyzer#flight-data-analyzer)** — Pipeline completo de machine learning para análise de dados de voos domésticos, cobrindo EDA, classificação, regressão e clusterização K-Means.
 ---
 
 ## 📚 Atualmente estudando
