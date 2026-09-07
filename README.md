@@ -48,6 +48,7 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 📊 BI – Dashboards interativos, DAX, integração com Python
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Pro](https://img.shields.io/badge/-Looker%20Pro-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 🧠 SQL – Criação e otimização de queries, views e procedures
@@ -56,6 +57,7 @@ Atualmente, estou me aprofundando em Ciência de Dados, com foco em aprendizado 
 ![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![LookML](https://img.shields.io/badge/-LookML-5192CA?style=for-the-badge&logo=looker&logoColor=white)
 
 🏢 ERPs – Estrutura de tabelas, relatórios, integrações
 
